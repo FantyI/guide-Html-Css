@@ -50,7 +50,8 @@ function App() {
             }
             readOnly
           ></input>
-          <img className="example" src="public/example.png" alt="Пример" />
+          <img className="example" src="/images/example.png" alt="Пример" />
+          <img src="public/images/Frame 76.svg" alt="Test" />
         </div>
         <div className="wrap">
           <p className="description">Ссылка</p>
