@@ -40,7 +40,7 @@ function App() {
         </div>
 
         <div className="wrap">
-          <p className="description">Изображение</p>
+          <p className="description">Изображение </p>
           <input
             className="code"
             name=""
@@ -50,7 +50,7 @@ function App() {
             }
             readOnly
           ></input>
-          <img className="example" src="src/assets/example.png" alt="Пример" />
+          <img className="example" src="public/example.png" alt="Пример" />
         </div>
         <div className="wrap">
           <p className="description">Ссылка</p>
